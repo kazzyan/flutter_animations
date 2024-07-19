@@ -17,10 +17,11 @@ migrate_working_dir/
 .idea/
 adle
 
-/.ios/
-/.android/
-/.build/
-/.linux/
-/.macos/
-/.test/
-/.windows/
+/ios/
+/android/
+/build/
+/linux/
+/macos/
+/test/
+/windows/
+/web/
